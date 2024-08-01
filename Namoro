@@ -1,4 +1,5 @@
 Pedido de namoro em python utilizando pycharm!
+feito com tktinker!
 
 import tkinter as tk
 from tkinter import *
